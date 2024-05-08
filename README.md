@@ -5,7 +5,6 @@ This is a simple quiz app created using HTML, CSS, and vanilla JavaScript.
 ## Features
 
 - Multiple-choice questions
-- Randomized question order
 - Score tracking
 - Responsive design
 
